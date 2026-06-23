@@ -136,59 +136,13 @@ I specialize in bridging **Development + Security + Operations** using modern cl
 ---
 
 # 📜 Certifications
-
-- AWS Certified Cloud Practitioner  
-- Kubernetes Fundamentals  
-- DevOps Foundation  
-- Terraform Automation Practitioner  
+Certified Kubernetes Administrator (CKA)
 
 ---
 
-# 🤝 Connect With Me
 
-<div align="center">
 
-<a href="https://www.linkedin.com/in/ram-reddy-srr/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge"/>
-</a>
 
-<a href="https://github.com/Ramreddy68">
-<img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-</div>
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Seetharam | DevSecOps Engineer</title>
-  <style>
-    body {
-      background: #0d1117;
-      color: white;
-      font-family: Arial;
-      text-align: center;
-      padding-top: 80px;
-    }
-    .card {
-      background: #161b22;
-      padding: 30px;
-      border-radius: 15px;
-      display: inline-block;
-    }
-  </style>
-</head>
-<body>
-
-<div class="card">
-  <h1>Seetharam 🚀</h1>
   <p>DevSecOps Engineer | AWS | Kubernetes | Terraform</p>
   <p>Building secure & scalable cloud systems</p>
 
