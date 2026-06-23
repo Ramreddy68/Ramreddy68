@@ -24,13 +24,11 @@
 
 I am a DevOps Engineer based in Hyderabad with a core focus on **Release Management, Service Level optimization, and strict Availability Management**. I thrive on replacing outdated legacy systems with modern, cutting-edge architectures. Whether it's spinning up multi-cloud clusters or writing robust Python automation, my goal is to eliminate operational bottlenecks and build self-healing infrastructure. 
 
-When my terminal is closed, I am either producing creative narrative videos in Telugu or out on the cricket pitch. 
+When my terminal is closed, I am usually producing creative narrative videos in Telugu. 
 
 ---
 
 ## 🛠️ Technical Command Center
-
-To keep things recruiter-friendly and easy to read, here is my stack categorized by domain:
 
 | ☁️ Cloud & Orchestration | 🔄 GitOps & CI/CD | 💻 Scripting & OS |
 | :--- | :--- | :--- |
@@ -50,7 +48,7 @@ To keep things recruiter-friendly and easy to read, here is my stack categorized
 ## 📈 Open Source Activity
 
 <div align="center">
-  <!-- Contribution Snake Animation (This is a huge eye-catcher!) -->
+  <!-- Contribution Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramreddy68/Ramreddy68/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramreddy68/Ramreddy68/output/github-contribution-grid-snake.svg">
