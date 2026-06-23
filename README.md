@@ -1,79 +1,73 @@
-<!-- Vibrant Animated Gradient Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Seetharam%20!%20👋&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="Colorful Header" />
+  <!-- Dynamic Futuristic Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF7F&center=true&vCenter=true&width=800&height=100&lines=Hi,+I'm+Seetharam+👋;DevOps+%26+Cloud+Specialist;Architecting+Resilient+Systems;Mastering+Kubernetes+%26+CI%2FCD" alt="Typing SVG" />
+  </a>
 </div>
-
-<h3 align="center">DevOps Specialist | Cloud Infrastructure & Automation Expert</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ram-reddy-srr/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ramreddy68">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <em>Driving scalable cloud initiatives, automating workflows, and championing modern DevOps practices.</em>
 </p>
 
----
-
-## 🚀 About Me
-
-I am a DevOps Specialist based in Hyderabad, dedicated to building resilient, scalable cloud architectures. I specialize in replacing legacy systems with modern development tools, focusing heavily on automation, efficient CI/CD pipelines, and high-availability infrastructure. 
-
-Beyond mapping out Ingress TLS flow charts and optimizing AWS S3 bucket configurations, I enjoy shifting gears to produce creative media—often writing narratives for Telugu videos featuring characters like Mani Deep, Lavanya, Ram, and Jaanu. When I step away from the screen, you can usually find me hitting the cricket pitch!
-
----
-
-## 🎨 Technical Arsenal
-
 <div align="center">
-
-### 💻 Scripting & Automation
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-
-### 🚢 Containerization & Orchestration
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Amazon_EKS-F7A80D?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="AWS EKS" />
-<img src="https://img.shields.io/badge/Azure_AKS-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AKS" />
-
-### 🔄 CI/CD & Version Control
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
-
-### ☁️ Cloud Platforms
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-
+  <a href="https://www.linkedin.com/in/ram-reddy-srr/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>
 
----
-
-## 📈 GitHub Activity & Stats
-
-To match the colorful theme, here are dynamic stat cards using the vibrant `synthwave` color scheme!
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramreddy68&show_icons=true&theme=synthwave&hide_border=true&bg_color=2D2B55" alt="Seetharam's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramreddy68&layout=compact&theme=synthwave&hide_border=true&bg_color=2D2B55" alt="Seetharam's Top Languages" width="48%" />
-</div>
 <br>
+
+## 🚀 The Elevator Pitch
+
+I am a DevOps Engineer based in Hyderabad with a core focus on **Release Management, Service Level optimization, and strict Availability Management**. I thrive on replacing outdated legacy systems with modern, cutting-edge architectures. Whether it's spinning up multi-cloud clusters or writing robust Python automation, my goal is to eliminate operational bottlenecks and build self-healing infrastructure. 
+
+When my terminal is closed, I am either producing creative narrative videos in Telugu or out on the cricket pitch. 
+
+---
+
+## 🛠️ Technical Command Center
+
+To keep things recruiter-friendly and easy to read, here is my stack categorized by domain:
+
+| ☁️ Cloud & Orchestration | 🔄 GitOps & CI/CD | 💻 Scripting & OS |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"> <br> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"> <br> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> <br> <img src="https://img.shields.io/badge/Amazon%20EKS-%23F7A80D.svg?style=for-the-badge&logo=amazon-aws&logoColor=black"> <br> <img src="https://img.shields.io/badge/Azure%20AKS-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white"> | <img src="https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=for-the-badge&logo=argo&logoColor=white"> <br> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> <br> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"> <br> <img src="https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white"> | <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"> <br> <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white"> <br> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <br> <img src="https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"> |
+
+---
+
+## 🔥 Impact & Focus Areas
+
+*   **Cluster Management:** Provisioning and maintaining secure **EKS** and **AKS** environments.
+*   **Infrastructure Health:** Proactively maintaining hardware and server integrity to ensure zero downtime.
+*   **Continuous Delivery:** Architecting seamless **ArgoCD** pipelines for automated, secure, and rapid software deployments.
+*   **Automation:** Leveraging **Python** and **Bash** to turn multi-step manual processes into single-click executions.
+
+---
+
+## 📈 Open Source Activity
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramreddy68&theme=synthwave&hide_border=true&background=2D2B55" alt="Seetharam's GitHub Streak" />
+  <!-- Contribution Snake Animation (This is a huge eye-catcher!) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ramreddy68/Ramreddy68/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ramreddy68/Ramreddy68/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ramreddy68/Ramreddy68/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramreddy68&show_icons=true&theme=tokyonight&hide_border=true" alt="Seetharam's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramreddy68&layout=compact&theme=tokyonight&hide_border=true" alt="Seetharam's Top Languages" width="48%" />
 </div>
 
 ---
 
-## ⚡ Recent Focus
-
-- **Architecting:** Multi-cloud Kubernetes deployments using **EKS** and **AKS**.
-- **Automating:** GitOps workflows leveraging **ArgoCD** for seamless continuous delivery.
-- **Scripting:** Robust **Python** and **Bash** scripts to eliminate manual operational overhead.
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</div>
+<p align="center">
+  <b>Let's build something scalable.</b> <br>
+  <i>"Efficiency is doing things right; automation is making sure you never have to do them again."</i>
+</p>
