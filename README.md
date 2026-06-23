@@ -18,7 +18,10 @@
 
 ## 🚀 About Me
 
-I am a DevOps Specialist based in Hyderabad, dedicated to building resilient, scalable cloud architectures. I specialize in replacing legacy systems with modern development tools, focusing heavily on automation, efficient CI/CD pipelines, and high-availability infrastructure. 
+You can use this **About Me / Professional Summary** for your resume or LinkedIn profile:
+
+DevOps Engineer with experience in cloud technologies, CI/CD pipeline automation, containerization, infrastructure management, and DevSecOps practices. Skilled in building scalable, secure, and reliable systems using modern DevOps tools and cloud platforms. Passionate about automation, continuous improvement, and delivering high-quality solutions that enhance operational efficiency and business performance.
+
 
 
 ---
