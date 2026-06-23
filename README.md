@@ -23,9 +23,21 @@
 <!-- ================= ANIMATED TYPING ================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevSecOps+Engineer;Cloud+%7C+AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Expert;Security+First+Infrastructure+Builder;GitOps+%7C+ArgoCD+Specialist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=DevSecOps+Engineer;Cloud+%7C+AWS+%7C+Kubernetes+%7C+Terraform;CI/CD+Pipeline+Automation;Infrastructure+as+Code+Expert"/>
 
 </div>
+
+---
+
+## 📋 Table of Contents
+- [About Me](#-about-me)
+- [Tech Stack](#-tech-stack)
+- [Core Expertise](#-core-expertise)
+- [Featured Projects](#-featured-projects)
+- [GitHub Analytics](#-github-analytics)
+- [Currently Exploring](#-currently-exploring)
+- [Let's Connect](#-lets-connect)
+- [Certifications](#-certifications)
 
 ---
 
@@ -54,6 +66,7 @@ I specialize in bridging **Development + Security + Operations** using modern cl
 ## 🚀 DevOps
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge)
 
 ## ☸️ Kubernetes
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge)
@@ -84,26 +97,31 @@ I specialize in bridging **Development + Security + Operations** using modern cl
 - GitOps-based deployments (ArgoCD)
 - Microservices container orchestration
 - Linux system automation & scripting
+- Security scanning & compliance automation
 
 ---
 
 # 🔥 Featured Projects
 
-## ☸️ GitOps Kubernetes Platform
+### ☸️ GitOps Kubernetes Platform
 - ArgoCD-based deployment automation
 - Fully version-controlled infrastructure (GitOps)
+- Multi-environment configuration management
 
-## 🔐 Secure CI/CD Pipeline
+### 🔐 Secure CI/CD Pipeline
 - Integrated SonarQube + Trivy scanning
 - Automated security gates in deployment pipeline
+- Compliance and vulnerability tracking
 
-## ☁️ AWS Infrastructure Automation
+### ☁️ AWS Infrastructure Automation
 - Terraform-based modular infrastructure provisioning
 - Scalable and reusable cloud architecture
+- Infrastructure versioning and state management
 
-## 🧩 Microservices Platform
+### 🧩 Microservices Platform
 - Dockerized applications deployed on Kubernetes
 - Load balancing, scaling & service discovery
+- Auto-healing and self-managing infrastructure
 
 ---
 
@@ -111,7 +129,7 @@ I specialize in bridging **Development + Security + Operations** using modern cl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ramreddy68&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ramreddy68&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramreddy68&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
@@ -122,6 +140,23 @@ I specialize in bridging **Development + Security + Operations** using modern cl
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramreddy68&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<div align="center">
+
+[![GitHub Followers](https://img.shields.io/github/followers/Ramreddy68?style=social&label=Follow)](https://github.com/Ramreddy68)
+[![GitHub Stars](https://img.shields.io/github/stars/Ramreddy68?style=social&label=Stars)](https://github.com/Ramreddy68)
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+- 🔍 Advanced eBPF for observability and security
+- 🛡️ Cloud-native security patterns & zero-trust architecture
+- 📊 Advanced monitoring & distributed tracing
+- 🌐 Service mesh technologies (Istio, Linkerd)
+- 🤖 GitOps & Infrastructure automation best practices
 
 ---
 
@@ -135,21 +170,35 @@ I specialize in bridging **Development + Security + Operations** using modern cl
 
 ---
 
-# 📜 Certifications
-Certified Kubernetes Administrator (CKA)
+# 💬 Let's Connect
+
+- 💼 **Open to opportunities**: DevSecOps Engineer, Cloud Architect, SRE roles
+- 🤝 **Collaboration interests**: Kubernetes, IaC, CI/CD automation, and security automation projects
+- 📧 **Reach out** via [LinkedIn](https://www.linkedin.com/in/ram-reddy-srr/) or GitHub for discussions on DevSecOps practices and cloud architecture
+- 💭 **Happy to help** with: Architecture reviews, DevSecOps pipeline design, Kubernetes best practices
 
 ---
 
+# 📜 Certifications
 
+- ✅ **Certified Kubernetes Administrator (CKA)**
 
+---
 
-  <p>DevSecOps Engineer | AWS | Kubernetes | Terraform</p>
-  <p>Building secure & scalable cloud systems</p>
+# 🔗 Quick Links
 
-  <br>
-  <a href="https://github.com/Ramreddy68">GitHub</a> |
-  <a href="https://www.linkedin.com/in/ram-reddy-srr/">LinkedIn</a>
+| Resource | Link |
+|----------|------|
+| LinkedIn | [ram-reddy-srr](https://www.linkedin.com/in/ram-reddy-srr/) |
+| GitHub | [@Ramreddy68](https://github.com/Ramreddy68) |
+| Portfolio | View my projects above 👆 |
+
+---
+
+<div align="center">
+
+Made with ❤️ by **Seetharam** | DevSecOps Engineer | Cloud Architect
+
+*"Infrastructure as Code, Security by Design"*
+
 </div>
-
-</body>
-</html>
