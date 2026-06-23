@@ -20,7 +20,6 @@
 
 I am a DevOps Specialist based in Hyderabad, dedicated to building resilient, scalable cloud architectures. I specialize in replacing legacy systems with modern development tools, focusing heavily on automation, efficient CI/CD pipelines, and high-availability infrastructure. 
 
-Beyond mapping out Ingress TLS flow charts and optimizing AWS S3 bucket configurations, I enjoy shifting gears to produce creative media—often writing narratives for Telugu videos featuring characters like Mani Deep, Lavanya, Ram, and Jaanu. When I step away from the screen, you can usually find me hitting the cricket pitch!
 
 ---
 
